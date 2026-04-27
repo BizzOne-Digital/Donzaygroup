@@ -146,6 +146,19 @@ export default function ContactPage() {
                   We typically respond to all inquiries within 24 hours. For
                   urgent requests, please call us directly.
                 </p>
+                <p className="text-muted-foreground text-sm mt-3">
+                  Please contact{' '}
+                  <span className="font-semibold text-foreground">
+                    Zakira Mohammad Haroon
+                  </span>{' '}
+                  at{' '}
+                  <a
+                    href="tel:4167975652"
+                    className="font-semibold text-primary hover:underline"
+                  >
+                    416-797-5652
+                  </a>
+                </p>
               </div>
             </div>
 
