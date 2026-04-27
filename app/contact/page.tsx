@@ -143,11 +143,8 @@ export default function ContactPage() {
                   Quick Response
                 </h3>
                 <p className="text-muted-foreground text-sm">
-                  We typically respond to all inquiries within 24 hours. For
-                  urgent requests, please call us directly.
-                </p>
-                <p className="text-muted-foreground text-sm mt-3">
-                  Please contact{' '}
+                  We respond to all inquiries within 24 hours. For urgent
+                  requests, please call{' '}
                   <span className="font-semibold text-foreground">
                     Zakira Mohammad Haroon
                   </span>{' '}
@@ -158,6 +155,7 @@ export default function ContactPage() {
                   >
                     416-797-5652
                   </a>
+                  .
                 </p>
               </div>
             </div>
